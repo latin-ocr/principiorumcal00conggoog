@@ -1,0 +1,43 @@
+226
+
+Sit ¹autem ser-ies neque crescens neque decrescens: erit
+S=1†1÷1÷1÷....†1
+Su: 1÷1÷1÷....÷1÷1
+1-1
+
+a(1-1)=1 -1 s: 335, quae iterum est
+
+expreffio indeterminata.
+
+. Cum autem ratio aequalitatis limes stt tam rationis decrescentis x: 1 (po-
+fito x > ι), quam rationis crescentis x:1,pos1to x< 13 pariter summa termi.
+norum fibi invicem aquarium tam limes estw parvitatis summae decrescentis toti·¹
+dem terminorum in progreffione geometrica a primo inde prioribus aequali cre·
+icentium, quam limes magnitudinis summae crescentis totidem terminorum in
+progieffione geometrica a primo inde prioribus. aequali decrescentium. Unde
+summa terminorum fibi invicem aequalium (quamvis seriem geometricam non
+constituant) elici potest ex summa totidem terminorum ab eodem primo ter-
+mino in ferie geometrica progredientium quaerendo scilicet iimitem summae
+hujus progreffionis‚ ejuatenus exponens progreffionis ad unitatem accedit.
+
+Est nempe
+
+3: 'ff-3. Sit⁸x=1÷23 Qzss-i-'f 0⁹¹sz†·'-’·n3'-²z²†3···”232⁵÷. . ..
+
+² x·1 x·1.1121 1
+euJus seriei limes parvitatis est a. Sed hin limes est·ser13est0tidemiermmonun
+priori aequalium: ergo summa a terminorum unitati aequalium est a, .
+Pariter fit S=1÷2x÷3x2÷4x³÷5x⁴4...÷a aen-'1
+’ sa: x÷2x2÷3x³÷4a⁴÷...mxu-mm
+ι S·Sx=1·i·x·i·x⁸÷x³†xi†...÷ arn-mm
+
+sar-Sa& ar÷u²-i·x³·i·x4†...†- x=·1†·x³·rrx¹¹·i·1
+δήδή-δάι’ =1 -(rri·1)x¹'¹†mx21÷1=o(xn÷1·an)-(xn.1).
+Faunum, erit S((1·1)'·(1··1) = (s·o)·'(1·1)); ex qua expreiiione nihii
+deducere licet.
+
+Fiat autem κε’ 1÷a‚ &quatenu limes expreffionis W: erit
+S ι
+
+ 
+

@@ -1,0 +1,43 @@
+162
+
+Etepim curvae inscribantur ἀ circumscribantur parallelogramma (ad nor·
+mam §. r. Ex. 3.). parallelogramma haec bina sumpta ad utramque diametri
+partem sunt mutuo aequalia3 proinde & summae horum parallelogrammorum
+ad utramque diametri 'partem sunt invicem aequales: unde ἃ limites harum
+summarum, nempe duae partes spatii curvilinei ad utramque diametri partem
+sitae, aequales sunt. ' ’ ’
+
+Throremc Super asymptoto hyperbolae conicae sumantur a centro C reeae
+CA, CA', CB, CB'ln proportione geometrica. Per puntia A, A', B, B'agan-
+¹ · tur restae alteri alymptoto parallelae, quae hyperbolae in punffls D, θ’, Ε, Ε
+occurrant. Ex centro Cogantur retiae cl), CD', ΟΕ, CE' 3 dico, seriores
+Dco', ECE', dt trapezia ADD'A', BEE'B', elle invicem aequalia. ,
+
+Jungantur restae ED', E'D, quae alymptotis in G, H, G', H' respetiive
+occurrant. Notum est, fore GE: D'H, G¹E'= DH'.
+
+Propter parallelas ΕΒ, CH est (ΞΒ : GE = A'C ε D'H
+atqui GE = D'H
+, ergo ΘΒ = A'c; &pariter B'G'=AC.
+, Atqui (hyp.) CA :cAE=CB:CB'=E'B':uB (quoniam CBaBE=CBb<B¹E¹>3
+ergo G'B':GB ‘=E'B':EB; proinde triangula G'B'E', GBE
+sunt invicem similia, δι retiae G'E', GE sunt invicem parallelae. Ducatur CF.
+quae retiam GH bifariam in F secet. Quoniam qmc'r =crch = rH: F'H' 3
+erit etiam G'F'=FH'. Atqui Gna-0¹11, dr G'E'=DH¹; ergo EF= FD', lit
+E'rzm Proinde retia CF est diameter hyperbolae, dc spatia SEF, SE'F
+reipettive aequalia sunt spatiis SD'F, SDV. Sed triangula CEF, CE'F' respe-
+tiive aequalia sunt triangulis CD'F‚ CDF'; ergo& spatia GEs, CE'S respetiive
+aequalia lunt spatiis CD'S, 0083 proinde ὅ( seriores ECE', DCD' lunt invicem
+
+ae uales.
+⁵ ἱ q Restae AD, CD' fibi invicem occurrant ini Quoniam cm<AD=0A¹xA¹ra¹
+
+semper est triangulum CAD aequale triangulo CA'D': hinc, sublato utrmque
+spatio communi CAI, &adjetio utrinque spatio communi 010¹, fit sector DCD'
+aequalis trapezio mixtilineo ADD'A'3 eodemque m‘odo lectorECE' aequalis est
+trapezio BEE'B'· ³ ·
+
+,Corol-
+
+ 
+

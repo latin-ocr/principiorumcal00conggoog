@@ -1,0 +1,46 @@
+3
+logarithmicae (ad fisymptotum tanquam fixam relatae) comprehensum· acco· i
+rate aequale cst reitangulo fatto ex subtangente δι differentia illarum appii·
+catarum. Atqui minor harum ordinatarum potest reddi minor lined quacun·
+que magnitudine dati3 proinde major harum ordinatarum limes 'est differen-
+tiae crescentis Δ earundem. Et restangulum fastum ex subtangente δι majori
+
+¹ ordinata, est limes spatii logaritlrmici crescentio, quem spatium hoc mm.
+
+⁸ quam attingit, sed ad quem accedere potest propius quam spatium quodcunque
+
+‚i datopraediiioreiiangulo minus·
+
+’ Exenrplron 2aum, Demonstrante Arcmrrrna (dr⁸ Spfiero aa Cyllenea)
+licet circulo inscribere dc circumscribere polygona ordinata cognomina seu
+fimilia, quorum ambitus &superficies ab ambitu dc superficie circuli dif-
+ferunt minus quam claimed aut ulla superficie assignati. Jam vero am·
+
+Ἰ* bitus dc superficies circuli majores sunt perimetris &superficiebus polygo·
+norum inscriptorum; minores vero perimetris dr superficiebus polygonatum
+circumscriptorum. ldeo ambitus dr superficies circuli sunt respective limi-
+
+‘ tes perimetrorum dc superficierum (crescentium aut decrescentium) polygono-
+rum ordinatorum, quae circulo inscribuntur, aut eidem circumscribuntur. Eo·
+
+¹ dem modo se habent superficies dc capacitates cylindrorum, cenorum, sphae·
+rarum ,' ad superficies ac solida prismatum, pyramidum, polyhedrorum, illis
+’ inscriptorum aut circumscriptorum.
+
+Item: Ratio aequalitatis limes est rationum crescentium aut decrescens
+tium, quas perimetri aut superficies polygonorum regularium circulo inscrIp·
+torum aut circumscriptorum habent ad ambitum dc superficiem circuli. Idem
+valet de rationibus, quas cylindri, coni, sphaerae habent ad promota, pyrami
+des, polyhedra, ipfis inscripta aut circumspripta.
+
+Exemplum 3sum, Sit curva quaecunque ad axem aliquem relata. Reiiae -
+huic ari ordinatim applicatae continuo crescant} a zero usquead maximam
+ipsarum, quae sumatur pro bafi. Axis dividatur in partes quotcunque inter se
+aequales. · Per omnia punita divifionis ducantur ad curvam restae axi ordi·
+natim applicatae. Super bafi dr omnibus restis ordinatim applicatis construan-
+
+'' tur versus uerticem parallelogramma, quorum altera latera fint partes aequa·
+A a les
+
+ 
+

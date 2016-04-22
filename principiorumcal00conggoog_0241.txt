@@ -1,0 +1,42 @@
+, ιεΒ
+
+“ retiam demittatur¹ perpendiculum, retianguium, iub hoc perpendiculo dr sub
+summa retiarum magnitudine datarum contentum, aequale fit summae priorum
+
+reitanguiorum.
+ng 32 Exemplum primum. Sint duo puniia A, B, aquibus m retiam quamtum·
+
+que A B demittantur perpendicula AA, ΒΒΙ Sint etiam duae retiaea, ima·
+gnitudine datae. Retia AB in pundo Z ita secetur, ut srt AZ><u= ΒΖ xi ς· δε
+
+Ι apuntto Z in restam AB' demittatur perpendiculum ZY· Dico: fore
+airammum = zemeri),
+
+Constr. Per Z agatur reita αΒ ipsr A'B' paraiieia, quae reuis'AA, BB' in
+a& Β occurrat.
+
+Dem. Propter fmilia triangula ΑΖΒ, ΒΖΒ est Aa ε Bb :AZt ΒΖ = Β : a;
+hinc a('=ZY-·AA) Β(Β“·Β-ΖΥ) proinde ZY(a÷b)= axAA'ii-beB
+psg 33· Exemplum secundum Sint tria punita A, B, Cpofitione data, & tres restae
+a, Β, cmagnitudine datae3 dc srnt AA', ·'‚BB CC' perpendicula ιιι retiam quam-
+· cunque demiiia. , ,
+Pontio Ζ respetiu pundomm A, Bita determinato, ut srt ZY( (sthir-
+AA''><o÷BB><i; determinetur punstumZ' respetiu punitorum Z, C, ita ut
+z'r'(i=mec)=zr(em)÷oe'><c: eritz'¹'Y(oeerc)=AA><a÷BB' mercem,
+Exemplum tertium. Sint quatuor punita A, B, C, D positione data, dc qua·
+tuor lineae a, Β, r, dmagnitudinedatae. '
+· Determinetur puni'nun Ζ ⁸ respeau punitorum A, B, C (juxta exemplum
+” secundum); tum determinetur pineum Ζ’ respetiu punitorumZ', D, sro, ut
+z”r(a÷r÷c÷m= -ΗΖΥ (aermon-00⁵ xe: erit z⁶fra÷b÷e÷m=
+AA'¹''·><o†BB><d÷CC><r÷DD><d
+Ex his exemplis patet methodus generalis procedendi ae demonstrandi
+,Proposrtione nimirum evitia pro punitis quotlibeta positione datis, dc pro toti-
+dem retiis magnitudine datis3 eadem etiarn vera effe demonstratur, s1 tam pun·
+’ tiorum quam testarum numerus unitate augeatur. Cum igitur vera fit propp·
+srtio de paucis pontus &restium 3,4. ...3 ea etiam vera est pro quinque
+. punitis: inde pro sex, ἃ src deinceps. Ideo semper determinari potest punem
+
+Ζ tale, ut srt oxAA' ÷d><BB ÷=><cc †0···¹>‘LL· ·ΖΖΨῨΗ-ΙῆωὲῇἱΒωη.
+
+ 
+
